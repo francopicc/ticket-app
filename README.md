@@ -2,6 +2,9 @@
 
 Aplicacion basada en NextJS 14, y usando Supabase como base de datos principal, ademas se uso la funcion de Buckets de Supabase, para almacenar como CDN las imagenes de perfil, eventos, etc.
 
+<img src="/public/chrome-capture-2024-9-17.png" width="500" alt=""/>
+<img src="/public/chrome-capture-2024-9-17.gif" width="500" alt=""/>
+
 Las tecnologias que usa esta app son:
 <ul>
 	<li>NextJS</li>
